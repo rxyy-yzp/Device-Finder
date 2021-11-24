@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>link.ico</file>
+        <file>roc.jpg</file>
+        <file>Terminal.ico</file>
+    </qresource>
+</RCC>
