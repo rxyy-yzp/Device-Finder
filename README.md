@@ -2,7 +2,7 @@
 
 Rocket Team !
 
-DLUT生产实习项目 in Rockwell Automation
+生产实习项目 in Rockwell Automation
 
  通过UDP等协议对当前子网或远程子网中的主机进行访问
 
